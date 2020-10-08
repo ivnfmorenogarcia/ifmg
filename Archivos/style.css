@@ -1,0 +1,77 @@
+#site {
+    
+    width: 1000px;
+    height: 1000px;
+    background-color: aliceblue;
+    
+    
+}
+
+#header {
+    
+    width: 1000px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    font-family:"Lemon/Milk", sans-serif, monospace;
+    
+    
+}
+
+
+#bl {
+    
+    width: 250px;
+    height: 850px;
+    background-color: darkgrey;
+    float: left;
+    color: white;
+    font-family:"Lemon/Milk", sans-serif, monospace;
+    
+}
+
+#br {
+    width: 750px;
+    height: 850px;
+    background-color: teal;
+    float: right;
+    color: white;
+    font-family:"Lemon/Milk", sans-serif, monospace;
+}
+
+#foot {
+    width: 1000px;
+    height: 1000px;
+    background-color: grey;
+    color: white;
+    font-family:"Lemon/Milk", sans-serif, monospace;
+    
+}
+
+#tabla {
+     color: white;
+    font-family:"Lemon/Milk", sans-serif, monospace;
+    border: 5px;
+   
+}
+
+
+#vids {
+    
+    color: white;
+    font-family:"Lemon/Milk", sans-serif, monospace;
+    font-size: 14px;
+    
+}
+
+a {
+    
+    text-decoration: none;
+    color: white
+}
+
+a:hover {
+    
+    color: teal;
+    background-color: black;
+}
